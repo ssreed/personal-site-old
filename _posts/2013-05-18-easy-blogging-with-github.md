@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy blogging with GitHub"
+title: "Easy Blogging with GitHub"
 description: ""
 category: 
 tags: [blogging, rails, jekyll]
