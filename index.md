@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Trying to make the world a better place.
+tagline:
 ---
 
 <ul>
