@@ -10,3 +10,4 @@ description: ""
 * [DJukeBOX](https://djukebox.hp.af.cm/)
 * [Hot or Cold](http://meetsri.net/hucklebuckle)
 * [Shopping List](http://meetsri.net/shopping-list)
+* [GiantQuiz](http://meetsri.net/giantquiz/)
