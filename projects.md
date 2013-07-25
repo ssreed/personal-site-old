@@ -11,4 +11,4 @@ description: ""
 * [Hot or Cold](http://meetsri.net/hucklebuckle)
 * [Shopping List](http://meetsri.net/shopping-list)
 * [GiantQuiz](http://meetsri.net/giantquiz/)
-* [Book Manager](springmvc-ssreed.rhcloud.com)
+* [Book Manager](http://springmvc-ssreed.rhcloud.com)
